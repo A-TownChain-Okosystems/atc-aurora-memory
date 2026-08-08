@@ -17,11 +17,11 @@
 
 | Komponente | Status | Parse | Tests |
 |-----------|--------|-------|-------|
-| `src/knowledge_base.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/vector_store.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/memory_index.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/learning_pipeline.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/context_window.atc` | 📋 GEPLANT | ❌ | ❌ |
+| src/knowledge_base.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/vector_store.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/memory_index.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/learning_pipeline.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/context_window.atc | 📋 GEPLANT | ❌ | ❌ |
 
 ---
-*Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
+*Auto-generiert 2026-08-08 · Aurora*
