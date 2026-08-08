@@ -14,11 +14,11 @@ atc-aurora-memory/
 ├── CHANGELOG.md
 ├── FILE_REGISTER.md
 └── src/
-    ├── knowledge_base.atc              Knowledge base — structured knowledge graph
-    ├── vector_store.atc                Vector store — embeddings, similarity search
-    ├── memory_index.atc                Memory index — indexing, retrieval, caching
-    ├── learning_pipeline.atc           Learning pipeline — federated learning, FedAvg
-    ├── context_window.atc              Context window — token management, summarization
+    ├── knowledge_base.atc    0 lines    Structured knowledge
+    ├── vector_store.atc    0 lines    Embeddings & search
+    ├── memory_index.atc    0 lines    Index & retrieval
+    ├── learning_pipeline.atc    0 lines    Federated learning
+    └── context_window.atc    0 lines    Context management
 ```
 
 ## Statistik
@@ -26,7 +26,7 @@ atc-aurora-memory/
 | Metrik | Wert |
 |--------|------|
 | .atc Dateien | 5 |
-| Layer | L6 — AI Layer |
+| .atc Zeilen | 0 |
 | ATC-Standard | ATC-45 |
 | Sprint | 3.2 |
 | Status | 📋 GEPLANT |
